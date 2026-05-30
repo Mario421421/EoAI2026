@@ -1,7 +1,7 @@
 # EoAI2026
 Element of AI Project
 
-# Project Title - Test
+# Facebook group knowledge extractor
 
 Final project for the Building AI course
 
@@ -32,3 +32,4 @@ The solution can expand first by looking at different groups discussing the same
 ## Acknowledgments
 
 Thanks to users of a FaceBook group I am following in which I have found a ton of useful information.
+META for providing FaceBook
