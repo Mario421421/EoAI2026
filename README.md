@@ -1,6 +1,7 @@
 # EoAI2026
 Element of AI Project
-# Project Title
+
+# Project Title - Test
 
 Final project for the Building AI course
 
